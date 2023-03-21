@@ -20,5 +20,18 @@ nav a{
   color: #000000;
   font-weight: bold;
   font-size: 20px;
-  text-decoration: none;s
+  text-decoration: none;
+}
+main{
+  width: 940px;
+  margin: 0 auto;
+}
+form{
+  margin: 40px 0;
+}
+.input-padrao{
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%
 }

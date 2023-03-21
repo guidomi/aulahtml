@@ -1,9 +1,9 @@
 body{
-	background:#FFFACD
+	background:#fff48f;
 }
 
 .principal{
-	background: #FFFFE0
+	background: #ffe499;
 }
 .titulo-principal{
 	text-align: center;
@@ -33,7 +33,7 @@ center
 }
 .tens{
 	font-size: 20px;
-	color: #EEE8AA
+	color: #EEE8AA;
 }
 #beneficiosb{
 	width: 30%
